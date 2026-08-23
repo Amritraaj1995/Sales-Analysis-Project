@@ -28,13 +28,14 @@ This shows that **the number of units sold alone does not determine revenue; pro
 
 ### Screenshot 1-SALES DATA
 
-![SALES DATA](C:\Users\Admin\Desktop\study\DA\SALES PERFORMANCE\SCREENSHOTS\SALES DATA.png)
+![SALES DATA]
+(C:\Users\Admin\Desktop\study\DA\SALES PERFORMANCE\SCREENSHOTS\SALES DATA.png)
 
 ---
 
 ### Screenshot 2-TOP PERFORMER
 
-![TOP PERFORMER](SCREENSHOTS/TOP PERFORMER.png)
+![TOP PERFORMER](SCREENSHOTS/TOP%20PERFORMER.png)
 
 **Insights:** Excel sales analysis dashboard identifying top-performing employees and daily revenue.
 
