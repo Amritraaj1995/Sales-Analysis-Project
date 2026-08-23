@@ -22,19 +22,19 @@ This shows that **the number of units sold alone does not determine revenue; pro
 ### FILES
 - SALES PERFORMANCEANALYSIS DASHBOARD--EXCEL.xlsx
 
-![SALES PERFORMANCEANALYSIS DASHBOARD--EXCEL](SALES%20PERFORMANCE/SALES%20PERFORMANCEANALYSIS%20DASHBOARD--EXCEL.xlsx)
+[SALES PERFORMANCEANALYSIS DASHBOARD--EXCEL.xlsx](https://github.com/user-attachments/files/31354017/SALES.PERFORMANCEANALYSIS.DASHBOARD--EXCEL.xlsx)
 
 ---
 
 ### Screenshot 1-SALES DATA
 
-![SALES DATA](SCREENSHOTS/SALES%20DATA.png)
+<img width="667" height="479" alt="SALES DATA" src="https://github.com/user-attachments/assets/6cc04ba9-d32a-44c8-b41b-af051fdce059" />
 
 ---
 
 ### Screenshot 2-TOP PERFORMER
 
-![TOP PERFORMER](SCREENSHOTS/TOP%20PERFORMER.png)
+<img width="1366" height="768" alt="TOP PERFORMER" src="https://github.com/user-attachments/assets/64d07a80-804a-4df2-85ce-a6186aa0c8df" />
 
 **Insights:** Excel sales analysis dashboard identifying top-performing employees and daily revenue.
 
@@ -42,7 +42,7 @@ This shows that **the number of units sold alone does not determine revenue; pro
 
 ### Screenshot 3-Daily Revenue Analysis
 
-![Daily Revenue Analysis](SCREENSHOTS/Daily%20Revenue%20Analysis.png)
+<img width="748" height="273" alt="Daily Revenue Analysis" src="https://github.com/user-attachments/assets/5d5e2784-2031-43d8-8e6c-ef18f092d7c0" />
 
 **Insights:** The highest revenue was RS 3.4 L on 04/07/2026.
 
@@ -50,7 +50,7 @@ This shows that **the number of units sold alone does not determine revenue; pro
 
 ### Screenshot 4-SAME UNITS AND PRODUCT MIX
 
-![SAME UNITS AND PRODUCT MIX](SCREENSHOTS/SAME%20UNITS%20AND%20PRODUCT%20MIX.png)
+<img width="1366" height="768" alt="SAME UNITS AND PRODUCT MIX" src="https://github.com/user-attachments/assets/87070c06-5c7a-499f-871b-8495732ba6cf" />
 
 **Insights:** Product mix had a significant impact on total revenue, even when the number of units sold remained the same. 
 
