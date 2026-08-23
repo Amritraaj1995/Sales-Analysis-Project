@@ -21,9 +21,31 @@ This shows that **the number of units sold alone does not determine revenue; pro
 
 ### FILES
 - SALES PERFORMANCEANALYSIS DASHBOARD--EXCEL.xlsx
-- Screenshots of analysis
+![SALES PERFORMANCEANALYSIS DASHBOARD--EXCEL](SALES PERFORMANCE/SALES PERFORMANCEANALYSIS DASHBOARD--EXCEL.xlsx)
+
+---
+
+### Screenshot 1-SALES DATA
+![SALES DATA](SCREENSHOTS/SALES DATA.png)
+
+---
+
+### Screenshot 2-TOP PERFORMER
+![TOP PERFORMER](SCREENSHOTS/TOP PERFORMER.png)
+**Insights:** Excel sales analysis dashboard identifying top-performing employees and daily revenue.
+
+---
+
+### Screenshot 3-Daily Revenue Analysis
+![Daily Revenue Analysis](SCREENSHOTS/Daily Revenue Analysis.png)
+**Insights:** The highest revenue was RS 3.4 L on 04/07/2026.
+
+---
+
+### Screenshot 4-SAME UNITS AND PRODUCT MIX
+![SAME UNITS AND PRODUCT MIX](SCREENSHOTS/SAME UNITS AND PRODUCT MIX.png)
+**Insights:** Product mix had a significant impact on total revenue, even when the number of units sold remained the same. 
 
 ### Business Takeaway
-The analysis demonstrate show changes in **Product mix can significantly affect revenue**, even when the total number of units sold remains the same.
-- Screenshots of analysis 
+The analysis demonstrate show changes in **Product mix can significantly affect revenue**, even when the total number of units sold remains the same. 
 
