@@ -43,7 +43,7 @@ This shows that **the number of units sold alone does not determine revenue; pro
 ---
 
 ### Screenshot 4-SAME UNITS AND PRODUCT MIX
-![SAME UNITS AND PRODUCT MIX](SCREENSHOTS/SAME UNITS AND PRODUCT MIX.png)
+(/SCREENSHOTS/SAME UNITS AND PRODUCT MIX.png)
 **Insights:** Product mix had a significant impact on total revenue, even when the number of units sold remained the same. 
 
 ### Business Takeaway
