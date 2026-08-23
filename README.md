@@ -22,14 +22,13 @@ This shows that **the number of units sold alone does not determine revenue; pro
 ### FILES
 - SALES PERFORMANCEANALYSIS DASHBOARD--EXCEL.xlsx
 
-(C:\Users\Admin\Desktop\study\DA\SALES PERFORMANCE\SALES PERFORMANCEANALYSIS DASHBOARD--EXCEL.xlsx)
+![SALES PERFORMANCEANALYSIS DASHBOARD--EXCEL](SALES%20PERFORMANCE/SALES%20PERFORMANCEANALYSIS%20DASHBOARD--EXCEL.xlsx)
 
 ---
 
 ### Screenshot 1-SALES DATA
 
-![SALES DATA]
-(C:\Users\Admin\Desktop\study\DA\SALES PERFORMANCE\SCREENSHOTS\SALES DATA.png)
+![SALES DATA](SCREENSHOTS/SALES%20DATA.png)
 
 ---
 
@@ -43,7 +42,7 @@ This shows that **the number of units sold alone does not determine revenue; pro
 
 ### Screenshot 3-Daily Revenue Analysis
 
-![Daily Revenue Analysis](SCREENSHOTS/Daily Revenue Analysis.png)
+![Daily Revenue Analysis](SCREENSHOTS/Daily%20Revenue%20Analysis.png)
 
 **Insights:** The highest revenue was RS 3.4 L on 04/07/2026.
 
@@ -51,7 +50,7 @@ This shows that **the number of units sold alone does not determine revenue; pro
 
 ### Screenshot 4-SAME UNITS AND PRODUCT MIX
 
-![SAME UNITS AND PRODUCT MIX](SCREENSHOTS/SAME UNITS AND PRODUCT MIX.png)
+![SAME UNITS AND PRODUCT MIX](SCREENSHOTS/SAME%20UNITS%20AND%20PRODUCT%20MIX.png)
 
 **Insights:** Product mix had a significant impact on total revenue, even when the number of units sold remained the same. 
 
